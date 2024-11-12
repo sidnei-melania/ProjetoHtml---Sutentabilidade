@@ -1,0 +1,220 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff; /* Fundo da página */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.folder-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+}
+
+.folder-header {
+  text-align: center;
+}
+
+.folder-header h1 {
+  color: #05387a;
+  font-size: 2.5em;
+}
+
+.folder-header p {
+  font-size: 1.2em;
+}
+
+.folder-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.category {
+  width: 30%;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: white;
+  text-align: center;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.category img {
+  width: 80px;
+  height: 80px;
+}
+
+.category h2 {
+  font-size: 1.5em;
+}
+
+.category p {
+  font-size: 1em;
+}
+
+.category:hover {
+  transform: scale(1.1);
+}
+
+.infectante {
+  background-color: #f44336; /* Vermelho para infectante */
+  color: white
+}
+
+.comum {
+  background-color: #000000; /* Preto para comum */
+  color: white;
+}
+
+.reciclavel {
+  background-color: #4caf50; /* Verde para reciclável */
+  color: white;
+}  
+
+.perfurocortante {
+  background-color: #ff9800; /* Laranja para perfurocortante */
+  color: white;
+}
+
+.quimico {
+  background-color: #4180b4; /* Azul para químico */
+  color: white;
+}
+
+.radioativo {
+  background-color: #9c27b0; /* Roxo para radioativo */
+  color: white;
+}
+
+.folder-footer {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+.details-container {
+  display: none;
+  padding: 20px;
+  text-align: center;
+  height: auto; /* Tela de transição ocupa 100% da altura da tela */
+}
+
+/* Estilo do botão de voltar, mais forte que a cor do resíduo */
+.details-container button {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  font-size: 1em;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Estilo do botão voltar */
+.details-container button:hover {
+  background-color: #1558b0;
+}
+
+.details-container #description {
+  font-size: 1.2em;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: justify; /* Alinhamento Justificado */
+}
+
+
+/* Formatação adicional para o texto dentro de detalhes */
+.details-container #description h2 {
+  font-size: 2em;
+  color: #05387a;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+.details-container #description p {
+  font-size: 1.1em;
+  line-height: 1.8;
+  margin-bottom: 1em;
+  color: #333; /* Texto escuro para boa legibilidade */
+}
+
+/* Estilo adicional para o Resíduo Infectante */
+.details-container.infectante #description {
+  background-color: #ffe6e6; /* Fundo mais claro */
+  color: #333;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Estilos de fundo para cada categoria para garantir contraste */
+.details-container.comum #description {
+  background-color: #cccaca; /* Fundo cinza claro */
+  color: #333;
+}
+
+.details-container.reciclavel #description {
+  background-color: #e6ffe6; /* Verde claro */
+  color: #333;
+}
+
+.details-container.perfurocortante #description {
+  background-color: #ffebcc; /* Laranja claro */
+  color: #333;
+}
+
+.details-container.quimico #description {
+  background-color: #e0f7fa; /* Azul claro */
+  color: #333;
+}
+
+.details-container.radioativo #description {
+  background-color: #f3e5f5; /* Roxo claro */
+  color: #333;
+}
+
+/* Estilo do botão de voltar para contrastar bem */
+.details-container button {
+  font-size: 1em;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  color: white;
+  border-radius: 8px;
+  margin-top: 1em;
+}
+
+.details-container.infectante button {
+  background-color: #d32f2f;
+}
+
+.details-container.comum button {
+  background-color: #333;
+}
+
+.details-container.reciclavel button {
+  background-color: #388e3c;
+}
+
+.details-container.perfurocortante button {
+  background-color: #fb8c00;
+}
+
+.details-container.quimico button {
+  background-color: #1976d2;
+}
+
+.details-container.radioativo button {
+  background-color: #7b1fa2;
+}

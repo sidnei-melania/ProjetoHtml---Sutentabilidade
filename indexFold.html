@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Folder Coleta de Resíduos Hospitalares</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="folder-container">
+    <header class="folder-header">
+      <h1>Coleta de Lixo Hospitalar</h1>
+      <p>Orientações para gestão sustentável e segura dos resíduos hospitalares</p>
+    </header>
+
+    <div class="folder-content">
+      <div class="category infectante" onclick="showDetails('infectante')">
+        
+        <h2>Resíduo Infectante</h2>
+        <p>Materiais que podem transmitir doenças, como agentes biológicos, bactérias, vírus, fungos, parasitas, toxinas, microplasmas.<br>
+          Acões recomendadas: Armazenamento em Contêineres Especiais ou incineração.
+          </p>
+      </div>
+
+      <div class="category comum" onclick="showDetails('comum')">
+       
+        <h2>Resíduo Comum</h2>
+        <p>Resíduos comuns são materiais que não apresentam riscos biológicos, químicos ou radiológicos à saúde.<br>
+          Ações recomendadas: Redução de descartes e despojamento de resíduos comuns em aterros.
+      </div>
+
+      <div class="category reciclavel" onclick="showDetails('reciclavel')">
+        
+        <h2>Resíduo Reciclável</h2>
+        <p>Os resíduos recicláveis são aqueles que não apresentam contaminação e que podem ser reintroduzidos na cadeia produtiva.<br>
+          Acões recomendadas: Coleta seletiva e parceria com Cooperativas.
+        </p>
+        
+      </div>
+
+      <div class="category perfurocortante" onclick="showDetails('perfurocortante')">
+
+        <h2>Resíduo Perfurocortante</h2>
+        <p>Resíduos perfurocortantes são objetos que possuem partes rígidas ou agudas, com fios de corte, que podem perfurar ou cortar.<br>
+           Acões recomendadas: Coleta em Contêineres, eliminados por incineração e Descarte Controlado.
+        </p>
+      </div>
+
+      <div class="category quimico" onclick="showDetails('quimico')">
+        
+        <h2>Resíduo Químico</h2>
+        <p>Resíduos químicos são substâncias  que podem ser perigosas para a saúde pública ou ambiental, como medicamentos e produtos de limpeza.<br>
+           Acões recomendadas: Armazenamento seguro e transporte especializado para resíduos perigosos
+        
+        </p>
+      </div>
+
+      <div class="category radioativo" onclick="showDetails('radioativo')">
+       
+        <h2>Resíduo Radioativo</h2>
+        <p>Resíduos radioativos, são materiais que contêm radiação em quantidades que excedem os limites de eliminação.<br>
+          Acões recomendadas: Local seguro, rastreamento rigoroso e etiquetagem adequada e controle.
+        
+        
+        </p>
+      </div>
+    </div>
+
+    <footer class="folder-footer">
+      <h3>Importância da Gestão Sustentável</h3>
+      <p>
+        A gestão adequada dos resíduos hospitalares reduz riscos à saúde, protege o meio ambiente e garante a segurança dos profissionais e pacientes.
+      </p>
+    </footer>
+  </div>
+
+  <div id="details" class="details-container">
+    <button onclick="goBack()">Voltar</button>
+    <div id="description"></div>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
