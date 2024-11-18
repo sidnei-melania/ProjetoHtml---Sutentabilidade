@@ -3,9 +3,9 @@ function showDetails(category) {
 
     infectante: `
 
-      <h1 align = "center" style = "color: #d32f2f" >Resíduo Infectante</h1><br>
+      <h1 align = 'center' style = 'color: #d32f2f' >Resíduo Infectante</h1><br>
 
-    <hr style="background-color: #d32f2f ; height: 2px; border: none;">
+    <hr style ='background-color: #d32f2f ; height: 2px; border: none;'>
        
 
       <p>Resíduos infectantes são materiais de alto risco por sua capacidade de transmissão de doenças e contaminações. Eles incluem itens como seringas, agulhas, curativos, materiais contaminados com sangue e outras secreções corporais. Por esse motivo, o descarte adequado desses resíduos é essencial para a saúde pública e a proteção ambiental. A gestão eficaz de resíduos infectantes exige conformidade com normas de segurança e saúde e deve integrar-se a protocolos de sustentabilidade ambiental.<br> 
@@ -21,7 +21,7 @@ Realizar treinamentos regulares para todos os funcionários que manuseiam esses 
 
 </ul>
 
-<h3 align = "center" style = "color: #d32f2f">Implementação de Protocolos de Descarte e Armazenamento Temporário</h3>
+<h3 align = 'center' style = 'color: #d32f2f'>Implementação de Protocolos de Descarte e Armazenamento Temporário</h3>
     
 <p> Para garantir segurança e sustentabilidade na gestão de resíduos infectantes, é essencial estabelecer protocolos claros e específicos para o descarte e o armazenamento temporário desses materiais em locais adequados. O cumprimento dessas diretrizes minimiza a exposição de pessoas e animais a riscos biológicos, além de auxiliar no controle de infecções. Esse processo inclui:</p>
 
