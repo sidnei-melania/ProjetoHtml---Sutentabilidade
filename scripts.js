@@ -34,7 +34,7 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
 
 </ul>
 
-<h3 align = "center" style = "color: #d32f2f  ">Uso de Tecnologias para Redução de Volume e Impacto Ambiental</h3>
+<h3 align = 'center' style = 'color: #d32f2f  ' >Uso de Tecnologias para Redução de Volume e Impacto Ambiental</h3>
     <p>A adoção de tecnologias avançadas para o tratamento dos resíduos infectantes é uma medida importante para reduzir o impacto ambiental e melhorar a eficiência do processo. Entre as principais tecnologias, destacam-se:</p>
 
     <ul>
@@ -45,7 +45,7 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
         <li><b>Vantagens das Parcerias Especializadas:</b> Além de suporte técnico, as empresas especializadas frequentemente disponibilizam treinamentos para colaboradores e certificações de conformidade, garantindo um ciclo de descarte alinhado às regulamentações.</li>
     </ul>
 
-    <h3 align = "center" style = "color: #d32f2f " >Acompanhamento e Auditoria Ambiental</h3>
+    <h3 align = 'center' style = 'color: #d32f2f ' >Acompanhamento e Auditoria Ambiental</h3>
     <p>Realizar auditorias ambientais periódicas é fundamental para manter o controle de qualidade nos processos de gestão de resíduos infectantes. As auditorias permitem:</p>
 
     <ul>
@@ -54,7 +54,7 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
         <li><b>Cumprimento das Exigências Ambientais:</b> O acompanhamento das normas ambientais contribui para a minimização dos impactos ecológicos e reforça o compromisso da instituição com a sustentabilidade.</li>
     </ul>
 
-    <h3 align = "center" style = "color: #d32f2f"  >Protocolo de Sustentabilidade para Resíduos Infectantes</h3>
+    <h3 align = 'center' style = 'color: #d32f2f'  >Protocolo de Sustentabilidade para Resíduos Infectantes</h3>
     <p>Um protocolo de sustentabilidade ambiental para resíduos infectantes visa minimizar os impactos ecológicos e promover práticas seguras e eficientes na gestão desses materiais. Os principais pontos de um protocolo bem estruturado incluem:</p>
 
     <ul>
@@ -65,7 +65,7 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
         <li><b>Logística Reversa para Materiais Recicláveis:</b> Implementar logística reversa para itens que podem ser reciclados após a descontaminação, como embalagens plásticas e certos Equipamentos de Proteção Individual (EPIs).</li>
     </ul>
 
-    <h3 align = "center" style = "color: #d32f2f" >Benefícios e Impacto Positivo</h3>
+    <h3 align = 'center' style = 'color: #d32f2f"'>Benefícios e Impacto Positivo</h3>
     <p>Ao adotar essas práticas, instituições de saúde e outros setores promovem a segurança sanitária, reduzem o impacto ambiental e incentivam uma cultura de responsabilidade ambiental. Esse compromisso fortalece a imagem institucional e demonstra o alinhamento com as exigências ecológicas e sociais atuais.</p>
 
     `,
