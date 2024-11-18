@@ -10,7 +10,7 @@ function showDetails(category) {
 
       <p>Resíduos infectantes são materiais de alto risco por sua capacidade de transmissão de doenças e contaminações. Eles incluem itens como seringas, agulhas, curativos, materiais contaminados com sangue e outras secreções corporais. Por esse motivo, o descarte adequado desses resíduos é essencial para a saúde pública e a proteção ambiental. A gestão eficaz de resíduos infectantes exige conformidade com normas de segurança e saúde e deve integrar-se a protocolos de sustentabilidade ambiental.<br> 
 
-      <h3 align = "center" style = "color: #d32f2f" >Ações para Melhorar a Coleta de Resíduos Infectantes </h3>  
+      <h3 align = 'center' style = 'color: #d32f2f'>Ações para Melhorar a Coleta de Resíduos Infectantes </h3>  
       
       <ul>
       
@@ -72,7 +72,7 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
     comum: `
       <h1 align = "center">Resíduo Comum</h1><br>
 
-      <hr style="background-color: black; height: 2px; border: none;">
+      <hr style = "background-color: black; height: 2px; border: none;">
 
         <h3 align = "center" style = "color: #333 ">Resíduo Comum e Protocolos de Sustentabilidade Ambiental</h3>
 
@@ -132,14 +132,14 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
         <li>Fortalecimento da imagem institucional de empresas e órgãos públicos</li>
     </ul></b><br>
 
-    <p>Ao implementar essas práticas, as instituições e a sociedade em geral podem contribuir para um futuro mais sustentável, alinhando-se às exigências ecológicas e sociais contemporâneas.</p>
+    <p> Ao implementar essas práticas, as instituições e a sociedade em geral podem contribuir para um futuro mais sustentável, alinhando-se às exigências ecológicas e sociais contemporâneas.</p>
 
     `,
     reciclavel: `
 
     <h1 align = "center" style = "color: #388e3c"> Resíduo Reciclável</h1> 
 
-    <hr style="background-color: #388e3c; height: 2px; border: none;">
+    <hr style = "background-color: #388e3c; height: 2px; border: none;">
     
 
     <p>A gestão de resíduos recicláveis é um dos pilares fundamentais para a construção de um futuro sustentável. Resíduos recicláveis são materiais que, quando descartados corretamente, podem ser processados e transformados em novos produtos, contribuindo para a redução do consumo de recursos naturais e a minimização do impacto ambiental. A reciclagem não apenas prolonga o ciclo de vida dos materiais, mas também reduz a necessidade de extração de novas matérias-primas, o que é essencial em um mundo onde os recursos estão se esgotando rapidamente.</p>
