@@ -1,7 +1,7 @@
 /* styles.css */
 body {
   font-family: Arial, sans-serif;
-  background-color: #fff; /* Fundo da página */
+  background-color: #fff; /* Fundo da página principal */
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -164,7 +164,7 @@ body {
 }
 
 .details-container.reciclavel #description {
-  background-color: #e6ffe6; /* Verde claro */
+  background-color: #e6ffe6; /* Verde claro reciclavel */
   color: #333;
 }
 
