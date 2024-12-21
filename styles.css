@@ -109,6 +109,7 @@ body {
 }
 
 /* Estilo do botão de voltar, mais forte que a cor do resíduo */
+
 .details-container button {
   margin-bottom: 20px;
   padding: 10px 20px;
@@ -119,6 +120,7 @@ body {
 }
 
 /* Estilo do botão voltar */
+
 .details-container button:hover {
   background-color: #1558b0;
 }
@@ -152,6 +154,7 @@ body {
 }
 
 /* Estilo adicional para o Resíduo Infectante */
+
 .details-container.infectante #description {
   background-color: #ffe6e6; /* Fundo mais claro */
   color: #333;
