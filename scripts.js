@@ -442,20 +442,24 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
   };
 
   // Atualiza o conteúdo da descrição com base na categoria escolhida
+  
   document.getElementById('description').innerHTML = descriptions[category];
   
   // Atualiza a classe do contêiner de detalhes para a categoria
+  
   const detailsContainer = document.getElementById('details');
   detailsContainer.classList.remove('infectante', 'comum', 'reciclavel', 'perfurocortante', 'quimico', 'radioativo');
   detailsContainer.classList.add(category);
   
   // Esconde a parte principal do conteúdo e mostra a tela de detalhes
+  
   document.querySelector('.folder-container').style.display = 'none';
   detailsContainer.style.display = 'block';
 }
 
 function goBack() {
   // Exibe novamente o conteúdo principal e esconde a tela de detalhes
+  
   document.querySelector('.folder-container').style.display = 'block';
   document.getElementById('details').style.display = 'none';
 }
