@@ -69,6 +69,7 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
     <p>Ao adotar essas práticas, instituições de saúde e outros setores promovem a segurança sanitária, reduzem o impacto ambiental e incentivam uma cultura de responsabilidade ambiental. Esse compromisso fortalece a imagem institucional e demonstra o alinhamento com as exigências ecológicas e sociais atuais.</p>
 
     `,
+    
     comum: `
       <h1 align = "center">Resíduo Comum</h1><br>
 
@@ -135,6 +136,7 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
     <p> Ao implementar essas práticas, as instituições e a sociedade em geral podem contribuir para um futuro mais sustentável, alinhando-se às exigências ecológicas e sociais contemporâneas.</p>
 
     `,
+    
     reciclavel: `
 
     <h1 align = "center" style = "color: #388e3c"> Resíduo Reciclável</h1> 
