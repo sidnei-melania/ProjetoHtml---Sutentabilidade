@@ -70,8 +70,8 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
 
     `,
     
-    comum: `
-      <h1 align = "center">Resíduo Comum</h1><br>
+    comum: 
+      <h1 align = "center"> Resíduo Comum </h1><br>
 
       <hr style = "background-color: black; height: 2px; border: none;">
 
@@ -326,11 +326,13 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
         Apesar dos avanços nas práticas de gestão de resíduos químicos, diversas dificuldades ainda persistem:
     </p>
     <ul>
+      
         <li><b>Falta de Conformidade:</b> Muitas indústrias não seguem as regulamentações de manejo de resíduos, seja por falta de conhecimento, recursos ou desinteresse. Isso pode levar a práticas inadequadas que aumentam os riscos à saúde e ao meio ambiente.</li>
         <li><b>Infraestrutura Limitada:</b> Em várias localidades, a infraestrutura para a coleta, tratamento e disposição de resíduos químicos é insuficiente, o que pode levar a práticas inadequadas e ao descarte ilegal de resíduos.</li>
         <li><b>Desafios na Reciclagem:</b> A reciclagem de resíduos químicos ainda enfrenta barreiras tecnológicas e econômicas, dificultando a implementação de processos mais sustentáveis. A falta de tecnologia adequada e de mercado para materiais reciclados pode ser um impeditivo.</li>
         <li><b>Conscientização Insuficiente:</b> A falta de educação sobre a importância do manejo seguro de resíduos químicos pode levar a comportamentos inadequados, tanto por parte dos trabalhadores quanto da comunidade em geral.</li>
         <li><b>Complexidade Regulamentar:</b> A diversidade de regulamentações em diferentes regiões pode dificultar a conformidade e a implementação de práticas consistentes de gestão de resíduos.</li>
+       
     </ul>
 
     <h2 align = "center" style = "color: #1976d2">Soluções Práticas para Melhoria da Gestão</h2>
