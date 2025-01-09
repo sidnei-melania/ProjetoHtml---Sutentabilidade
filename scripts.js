@@ -433,15 +433,6 @@ Para reduzir o impacto da movimentação de resíduos infecciosos, o transporte 
     <p>
         A gestão sustentável de resíduos radioativos é essencial para proteger a saúde pública e o meio ambiente. Implementar práticas rigorosas de armazenamento, destinação e educação, juntamente com o incentivo à pesquisa e desenvolvimento de alternativas menos perigosas, são passos fundamentais para garantir um futuro seguro. A cooperação entre governos, indústrias e comunidades é crucial para avançar em direção a uma gestão responsável que minimize os riscos associados aos resíduos radioativos. Somente através de um compromisso conjunto e de uma abordagem proativa é que conseguiremos enfrentar os desafios impostos por esses resíduos e garantir um mundo mais seguro para as futuras gerações.
     </p><br>
-
-    
-
-
-
-
-
-
-
  `
   };
 
